@@ -1,2 +1,2 @@
 # youtube-download
-A shell script that helps you download videos from youtube
+A shell script(for OS X and Linux) that helps you download videos from youtube.
